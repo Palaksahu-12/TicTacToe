@@ -110,8 +110,4 @@ h1{
   .gameInfo h1{
     font-size:  30px;
   }
-  /* .container{
-    grid-template-rows: repeat(3, 15vw);
-    grid-template-columns: repeat(3, 15vw);
-  } */
 }
